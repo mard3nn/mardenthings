@@ -3,9 +3,16 @@
 import { Home, Mail } from "lucide-react";
 
 export default function Page() {
-  const scrollToContacts = () => {
-    document.getElementById("contacts")?.scrollIntoView({ behavior: "smooth" });
-  };
+const scrollToContacts = () => {
+  // Работает и на локалхосте, и на GitHub Pages
+  const element = document.getElementById("contacts");
+  if (element) {
+    element.scrollIntoView({ behavior: "smooth" });
+  } else {
+    // Если по какой-то причине не нашёл — скроллим в самый низ
+    window.scrollTo({ top: document.body.scrollHeight, behavior: "smooth" });
+  }
+};
 
   return (
     <>
