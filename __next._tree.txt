@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/67a20d99019067a4.css","style"]
+:HL["/_next/static/chunks/c17079302ecbb5b9.css","style"]
 :HL["https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;900&display=swap","style"]
 :HL["https://avatars.mds.yandex.net/i?id=c607b6fb5bc714926152f7a78c4f4703395afde1-4326647-images-thumbs&n=13","image"]
-0:{"buildId":"r-S9wyNSqOYCS5DrK_-JF","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"RWz3TT2KlCEDjJ0nXI8-0","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
