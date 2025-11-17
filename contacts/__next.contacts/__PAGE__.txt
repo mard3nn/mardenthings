@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"buildId":"r-S9wyNSqOYCS5DrK_-JF","rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"padding":"4rem 1rem","maxWidth":"800px","margin":"0 auto","textAlign":"center"},"children":[["$","h1",null,{"style":{"fontSize":"3rem","marginBottom":"2rem"},"children":"Контакты"}],["$","p",null,{"style":{"fontSize":"1.5rem"},"children":[["$","a",null,{"href":"https://t.me/bes1n","target":"_blank","rel":"noopener","children":"Telegram @bes1n"}],["$","br",null,{}],["$","br",null,{}],["$","a",null,{"href":"https://github.com/mard3nn","target":"_blank","rel":"noopener","children":"GitHub /mard3nn"}],["$","br",null,{}],["$","br",null,{}],["$","a",null,{"href":"https://steamcommunity.com/profiles/76561199815919131/","target":"_blank","rel":"noopener","children":"Steam"}]]}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+4:null
