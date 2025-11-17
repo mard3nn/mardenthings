@@ -1,2 +1,1 @@
-:HL["https://avatars.mds.yandex.net/i?id=c607b6fb5bc714926152f7a78c4f4703395afde1-4326647-images-thumbs&n=13","image"]
-0:{"buildId":"Qu4IK3Q8ragRedeHCzpBj","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"Hg5jSboQYqI5AbbRpC8FM","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
