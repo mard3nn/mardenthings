@@ -5,11 +5,7 @@ export const metadata: Metadata = {
   description: "тут живут мои штуки и приколы",
 };
 
-export default function RootLayout({
-  children,
-}: {
-  children: React.ReactNode;
-}) {
+export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="ru">
       <head>
