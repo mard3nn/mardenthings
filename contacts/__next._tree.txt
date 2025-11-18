@@ -1,1 +1,4 @@
-0:{"buildId":"tC1ay8eUhogqu7UlJDu0E","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"contacts","paramType":null,"paramKey":"contacts","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+:HL["/_next/static/chunks/90e9472c21acb38c.css","style"]
+:HL["https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg","image"]
+:HL["https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg","image"]
+0:{"buildId":"eMbPmDD814yqwVyRtxwIj","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"contacts","paramType":null,"paramKey":"contacts","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

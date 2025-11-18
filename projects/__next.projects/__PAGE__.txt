@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
 2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
 3:"$Sreact.suspense"
-0:{"buildId":"tC1ay8eUhogqu7UlJDu0E","rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"padding":"8rem 2rem","textAlign":"center","minHeight":"70vh"},"children":[["$","h1",null,{"style":{"fontSize":"4.5rem","fontWeight":900,"marginBottom":"2rem"},"children":"Скоро..."}],["$","p",null,{"style":{"fontSize":"1.6rem","opacity":0.7},"children":["Здесь будут мои проекты.",["$","br",null,{}],"А пока можно просто наслаждаться тишиной."]}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"eMbPmDD814yqwVyRtxwIj","rsc":["$","$1","c",{"children":[["$","div",null,{"style":{"padding":"8rem 2rem","textAlign":"center","minHeight":"70vh"},"children":[["$","h1",null,{"style":{"fontSize":"4.5rem","fontWeight":900,"marginBottom":"2rem"},"children":"Скоро..."}],["$","p",null,{"style":{"fontSize":"1.6rem","opacity":0.7},"children":["Здесь будут мои проекты.",["$","br",null,{}],"А пока можно просто наслаждаться тишиной."]}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
 4:null
